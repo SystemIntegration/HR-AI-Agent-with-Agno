@@ -1,0 +1,14 @@
+myenv
+venv
+.env
+cache/
+.cache
+__pycache__
+*.pyc
+documents_cache/
+documents/
+*.json
+tmp
+tmp/
+logs/
+*.log
