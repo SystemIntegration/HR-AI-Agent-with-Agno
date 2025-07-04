@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenvs
+venv/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# System files
+*.log
+*.db
+*.sqlite3
+*.DS_Store
+*.swp
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Tests and coverage (optional)
+tests/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
